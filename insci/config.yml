@@ -1,5 +1,5 @@
 ---
-base_url: "https://rahulporuri.github.io/insci"
+base_url: "https://rahulporuri.in"
 static_dir: "static"
 per_page: 50
 
@@ -11,7 +11,7 @@ per_page: 50
 # tag = [yep, nope, etc]
 # taxonomies: ["style", "mood"]
 
-site_name: "InSci"
+site_name: "insci"
 site_description: "Directory of Indian Science Communication and Education"
 page_title: "{category} - Indian Sci Comm and Edu."
 meta_description: "Directory of {category} in Indian Science Communication and Education. "
