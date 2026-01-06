@@ -8,8 +8,28 @@
   description: Mathematics publication that serves the curious, the interested, and the cognoscenti.
   url: https://bhavana.org.in/
   categories: [Journal]
-  
-- name: Ajay of Agumbe and the Signal Snake
+
+- name: Dialogue
+  description: Dialogue is a forum for scientists to discuss and debate issues pertaining to the interface between science and society.
+  url: https://dialogue.ias.ac.in/index.php/dialogue
+  categories: [Journal]
+
+- name: IISc Connect
+  description: Connect seeks to bring together the IISc community and engage with the outside world through stories about life in the Institute, its research, and rich heritage.
+  url: https://connect.iisc.ac.in/
+  categories: [Journal]
+
+- name: IIT Madras Shaastra
+  description: Shaastra aims to bring a solution-driven perspective to developments in science and technology, both at home and overseas, as well as their impact on society.
+  url: https://shaastramag.iitm.ac.in/
+  categories: [Journal]
+
+- name: Ajay of Agumbe and the Signal Snake by Zai Whitaker, Rajiv Eipe
   description: Ajay is off to work. His office is in Agumbe. His job is to find the king cobra. We can see the antenna he carries, but where on earth is the radio that transmits to it? Walk with Ajay as he follows the king of snakes.
   url: https://storyweaver.org.in/en/stories/609071-ajay-of-agumbe-and-the-signal-snake
+  categories: [Book]
+
+- name: 31 Fantastic Adventures in Science - Women Scientists in India by Aashima Dogra, Nandita Jayaraj 
+  description: This unique book presents the stories of thirty-one of these trailblazing women who work in a diverse array of fields, from environmental biotechnology to particle physics, palaeobiology to astrophysics.
+  url: https://www.penguin.co.in/book/31-fantastic-adventures-in-science-women-scientists-in-india-2/
   categories: [Book]
