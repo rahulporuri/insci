@@ -1,0 +1,17 @@
+---
+base_url: "https://rahulporuri.github.io/insci"
+static_dir: "static"
+per_page: 50
+
+# Each entry can have multiple collection of tags (list of strings) in addition to the
+# categories. For instance, a directory of fonts could have multiple meaningful
+# tag collections per entry such as:
+# types = [serif, sans-serif, display, script]
+# mood = [retro, distressed, cool]
+# tag = [yep, nope, etc]
+# taxonomies: ["style", "mood"]
+
+site_name: "InSci"
+site_description: "Directory of Indian Science Communication and Education"
+page_title: "{category} - Indian Sci Comm and Edu."
+meta_description: "Directory of {category} in Indian Science Communication and Education. "

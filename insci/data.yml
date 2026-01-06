@@ -1,0 +1,15 @@
+---
+- name: Resonance
+  description: Science education for undergraduate students and teachers, focusing on enriching the processes of teaching and learning science. 
+  url: https://www.ias.ac.in/Journals/Resonance_Journal_of_Science_Education/
+  categories: [Journal]
+
+- name: Bhavana
+  description: Mathematics publication that serves the curious, the interested, and the cognoscenti.
+  url: https://bhavana.org.in/
+  categories: [Journal]
+  
+- name: Ajay of Agumbe and the Signal Snake
+  description: Ajay is off to work. His office is in Agumbe. His job is to find the king cobra. We can see the antenna he carries, but where on earth is the radio that transmits to it? Walk with Ajay as he follows the king of snakes.
+  url: https://storyweaver.org.in/en/stories/609071-ajay-of-agumbe-and-the-signal-snake
+  categories: [Book]
